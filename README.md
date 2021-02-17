@@ -7,6 +7,7 @@ Sport Streams allows you to watch live sports anywhere no subscriptions or annoy
 🔨 **Technologies: Swift, Firebase, AVKit**
 
 🚀 **Platform: 📱iOS, 📺 tvOS, 💻 macOS**
+
 <img src="/Sport Streams/image.png">
 
 
@@ -20,5 +21,6 @@ Casper Cop is a iOS app that checks out supreme.
 🔨 **Technologies: Swift, Firebase, Realm, Promises, Push Notifcations**
 
 🚀 **Platform: 📱iOS**
+
 <img src="/Casper/image.png">
 
