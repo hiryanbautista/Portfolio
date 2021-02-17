@@ -7,7 +7,7 @@ Sport Streams allows you to watch live sports anywhere no subscriptions or annoy
 🔨 **Technologies: Swift, Firebase, AVKit**
 
 🚀 **Platform: 📱iOS, 📺 tvOS, 💻 macOS**
-<img src="/Sport Streams/icon.png">
+<img src="/Sport Streams/image.png">
 
 
 
