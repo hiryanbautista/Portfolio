@@ -8,7 +8,7 @@ Sport Streams allows you to watch live sports anywhere no subscriptions or annoy
 
 🚀 **Platform: 📱iOS, 📺 tvOS, 💻 macOS**
 
-![sportstreams](/Sport Streams/image.png)
+![sportstreams]("/Sport Streams/image.png")
 
 
 
@@ -22,5 +22,5 @@ Casper Cop is a iOS app that checks out supreme.
 
 🚀 **Platform: 📱iOS**
 
-![sportstreams](/Casper/image.png)
+![sportstreams]("/Casper/image.png")
 
