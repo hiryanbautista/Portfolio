@@ -16,7 +16,7 @@ Sport Streams allows you to watch live sports anywhere no subscriptions or annoy
 
 <img align="left" width="75" height="75" src="/Casper/icon.png">
 
-Casper Cop is a iOS app that automates the checkout process for rare sneakers and clothing.
+Casper Cop is a iOS app that automates the checkout process for rare sneakers and clothing. Select the size, color, and billing information for a item and Casper Cop will attempt to purchase it.
 
 🔨 **Technologies: Swift, Firebase, Realm, Promises, Push Notifcations**
 
