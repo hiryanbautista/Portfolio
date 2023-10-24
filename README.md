@@ -20,7 +20,7 @@ Enhancing the [Overseerr](https://github.com/sct/overseerr) experience, a popula
 ## Sport Streams
 
 <img align="left" src="/images/SportStreams/Icon.png" width ="75">
-Sports Streams is a live-streaming app for popular US sports. Official league APIs provide score and schedule information. In addition, various online resources continuously search for live streams.
+Sports Streams is a live-streaming app for popular US sports. Official league APIs provide score and schedule information.
 <br>
 <br>
 
@@ -31,6 +31,15 @@ Sports Streams is a live-streaming app for popular US sports. Official league AP
 * Firebase
 * Python
 * Nodejs
+
+### Accomplishments 
+
+* High quality concurrent playback direct from CDN for most major sporting events.
+  * MLB regular season
+  * MLB playoffs
+  * NBA league pass (Fairplay DRM)
+  * NHL
+  * NFL sunday CBS and FOX, MNF, TNF
 
 <p align="leading">
   <img src="/images/SportStreams/MLB.png" height ="400">
